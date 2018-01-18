@@ -1,3 +1,5 @@
+
+
 defaults:
   -
     scope:
@@ -11,4 +13,9 @@ defaults:
       type:"posts"
     values:
       layout:"post"
-  
+
+sass:
+  sass_dir: _assets/_sass
+  style: compressed
+
+theme:
