@@ -1,10 +1,10 @@
-----
+---
 title: So I'm going to learn machine learning
-----
+---
 
 # So I'm going to learn something new
 
-Its going to be machine learning, Its going to be cool, and I'm going to use Kaggle.
+Its going to be machine learning, Its going to be cool, and I'm going to use [Kaggle](www.kaggle.com).
 
 ## Why?
 
