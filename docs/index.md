@@ -1,7 +1,7 @@
-----
+---
 layout: main
 title: Learning Blog
-----
+---
 
 # So I'm going to learn more about Machine learning
 
