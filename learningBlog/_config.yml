@@ -1,13 +1,14 @@
 defaults:
-- 
-  scope:
-    path:""
-    type:"pages"
-  values:
-    layout:"main"
-- 
-  scope:
-    path:""
-    type:"posts"
-  values:
-    layout:"post"
+  -
+    scope:
+      path:""
+      type:"pages"
+    values:
+      layout:"main"
+  -
+    scope:
+      path:""
+      type:"posts"
+    values:
+      layout:"post"
+  
