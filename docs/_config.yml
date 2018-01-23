@@ -21,4 +21,4 @@ sass:
 theme: jekyll-theme-cayman #documentation at https://github.com/pages-themes/cayman
 google_analytics: UA-11855374-4
 
-url: "https://grimley517.github.io/kaggle-machine-learning/"
+baseurl: /kaggle-machine-learning
